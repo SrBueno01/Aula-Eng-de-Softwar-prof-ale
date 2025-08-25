@@ -1,1 +1,3 @@
 # Aula-Eng-de-Softwar-prof-ale
+
+O GitHub é uma plataforma fundamental para o desenvolvimento de software colaborativo. Ele permite que desenvolvedores de todo o mundo compartilhem, revisem e aprimorem códigos de forma eficiente e segura. Além de facilitar o controle de versões com o Git, o GitHub promove a transparência, o aprendizado coletivo e a integração contínua, tornando-se essencial para projetos open source e privados. Sua importância também se destaca na construção de portfólios profissionais e na colaboração entre equipes distribuídas geograficamente.
